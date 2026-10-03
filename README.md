@@ -1,28 +1,95 @@
-# Olá! Eu sou o Arthur Medeiros👋
+# Arthur Medeiros Conceição
 
-Atualmente em transição de carreira do Marketing para o universo da Tecnologia e Inovação, com foco em Python, automação e aplicações de Inteligência Artificial.
+**AI Automation Engineer · Creative Technologist**
 
-🎯 **De onde venho:**  
-Atuei por mais de 10 anos como Diretor de Criação, gestor de projetos e sócio em agência de marketing no Brasil.
+Creative Director turned AI Automation Engineer. I build production-grade 
+RAG and agentic systems with Python, FastAPI, Supabase and n8n — with the 
+engineering discipline that separates prototypes from production.
 
-🚀 **Para onde vou:**  
-Estou me especializando em programação Python, com ênfase em IA, automação de processos e ciência de dados. Estudo no Porto 🇵🇹 e meu objetivo é contribuir com soluções escaláveis e inteligentes.
+---
 
-📚 **Estudos atuais:**
+## 🔧 Currently building
 
-- Curso IEFP – Linguagens de Programação em Python (350h)
-- Aprendizagem autodidata em IA aplicada e automação
-- Git, GitHub e metodologias ágeis
+**Rádio Transforma — AI Content Intelligence Pipeline** *(in active development)*
 
-💼 **Skills transferíveis:**
+An AI-powered content intelligence pipeline: transcribing hours of 
+unstructured audio (faster-whisper), structuring it semantically 
+(PydanticAI), storing it in a unified relational + vector database 
+(Supabase + pgvector), and exposing it through tool-calling agents 
+(LangGraph).
 
-- Visão estratégica de negócios  
-- Liderança criativa e comunicação  
-- Gestão de equipes e projetos  
-- Mentalidade de produto e inovação
+Measured with an evaluation harness (Promptfoo + pytest, integrated in 
+CI/CD via GitHub Actions) and traced with Langfuse — quality is measured, 
+not assumed.
 
-📬 Vamos conectar?
+*(Repository link coming soon)*
 
-- 📍 Porto, Portugal  
-- 📱 +351 926 752 006 (WhatsApp)  
-- 📧 Email: [amc.cultura.mkt@gmail.com](mailto:amc.cultura.mkt@gmail.com)  
+---
+
+## 🛠️ Stack
+
+**Core**
+- Python
+- FastAPI
+- TypeScript
+- PostgreSQL
+
+**AI / LLM**
+- LangGraph
+- PydanticAI
+- OpenRouter
+- Ollama
+
+**Data**
+- Supabase (PostgreSQL + pgvector)
+- Baserow
+
+**Automation & Infra**
+- n8n
+- Docker
+- Git
+- GitHub Actions
+- Vercel
+- Modal
+
+**LLMOps**
+- Langfuse
+- Promptfoo
+- pytest
+
+---
+
+## 🧠 How I work
+
+- **Eval-Driven Development** — the evaluation harness is the first 
+  artifact, not the last.
+- **End-to-end ownership** — from data ingestion to deployed agent.
+- **Creative + technical fluency** — 11 years as Creative Director 
+  applied to AI system design.
+- **Senior-level autonomy** — self-directed, ships and measures.
+
+---
+
+## 💼 Background
+
+11 years as **Creative Director at ECC+** (Brazil), leading branding, 
+communication and creative strategy for cultural and business projects. 
+That experience shapes how I design AI systems today: with business 
+vision, user empathy, and an obsession with clarity.
+
+**Selected projects:**
+- **Tutti Medeiros** — My own artistic project: artist branding & digital presence ([live](https://tutti-medeiros-v1.vercel.app))
+- **Originar** — Project office for the creative economy, applying AI to cultural funding & opportunity mapping *(in development)*
+- **People and Happiness** — Family business platform; AI pipeline redesign planned for V2.0 ([current site](https://www.peopleandhappiness.com))
+
+---
+
+## 📫 Connect
+
+- **LinkedIn:** [arthur-medeiros-conceição](https://www.linkedin.com/in/arthur-medeiros-concei%C3%A7%C3%A3o/)
+- **Email:** amc.cultura.mkt@gmail.com
+- **Location:** Porto, Portugal
+
+---
+
+*Quality is measured, not assumed.*
