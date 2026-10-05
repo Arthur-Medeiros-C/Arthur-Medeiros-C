@@ -22,7 +22,7 @@ Measured with an evaluation harness (Promptfoo + pytest, integrated in
 CI/CD via GitHub Actions) and traced with Langfuse — quality is measured, 
 not assumed.
 
-*(Repository link coming soon)*
+*[👉 Explore the codebase] (https://github.com/Arthur-Medeiros-C/radio-transforma-pipeline)*
 
 ---
 
